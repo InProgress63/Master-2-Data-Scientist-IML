@@ -1,0 +1,125 @@
+ChatGPT pré-synthèse :
+
+Energy_100g, energy-kj_100g, energy-kcal_100g : La quantité d'énergie dans un aliment peut être un facteur important pour la gestion du poids et la régulation de l'appétit.
+
+Proteins_100g, casein_100g, serum-proteins_100g, nucleotides_100g : Les protéines sont des nutriments importants pour la croissance et la réparation des tissus corporels.
+
+Carbohydrates_100g, sugars_100g, sucrose_100g, glucose_100g, fructose_100g, lactose_100g, maltose_100g, maltodextrins_100g, starch_100g, polyols_100g : Les glucides peuvent affecter les niveaux d'énergie et de glucose dans le sang.
+Il est important de surveiller la consommation de sucre ajouté et de choisir des sources de glucides complexes telles que les fruits, les légumes et les grains entiers.
+
+Fat_100g, saturated-fat_100g, butyric-acid_100g, caproic-acid_100g, caprylic-acid_100g, capric-acid_100g, lauric-acid_100g, myristic-acid_100g, palmitic-acid_100g, stearic-acid_100g, arachidic-acid_100g,
+behenic-acid_100g, lignoceric-acid_100g, cerotic-acid_100g, montanic-acid_100g, melissic-acid_100g, monounsaturated-fat_100g, polyunsaturated-fat_100g, omega-3-fat_100g, alpha-linolenic-acid_100g,
+eicosapentaenoic-acid_100g, docosahexaenoic-acid_100g, omega-6-fat_100g, linoleic-acid_100g, arachidonic-acid_100g, gamma-linolenic-acid_100g, dihomo-gamma-linolenic-acid_100g, omega-9-fat_100g,
+oleic-acid_100g, elaidic-acid_100g, gondoic-acid_100g, mead-acid_100g, erucic-acid_100g, nervonic-acid_100g,trans-fat_100g : La quantité de graisses dans un aliment peut influencer les niveaux de cholestérol sanguin et le risque
+de maladies cardiaques. Il est important de choisir des sources de graisses saines telles que les huiles végétales et les avocats plutôt que des graisses saturées.
+
+Cholesterol_100g : Le cholestérol dans les aliments peut affecter les niveaux de cholestérol sanguin.
+
+Fiber_100g : La fiber est importante pour une bonne digestion et peut aider à prévenir les problèmes de santé tels que la constipation, le diabète et les maladies cardiaques. La fiber peut aussi aider à contrôler le poids en maintenant
+une sensation de satiété. Les aliments riches en fiber incluent les légumes, les fruits, les grains entiers et les noix.
+
+Cholesterol_100g : Le cholestérol dans les aliments peut affecter les niveaux de cholestérol sanguin. Une consommation excessive de cholestérol peut entraîner des problèmes de santé, tels que l'accumulation de plaque dans les artères
+et l'augmentation du risque de maladies cardiaques et d'accidents vasculaires cérébraux. Il est donc important de contrôler la consommation de cholestérol dans le régime alimentaire. Les aliments riches en cholestérol incluent les
+produits d'origine animale tels que la viande, les produits laitiers et les œufs.
+
+
+Sodium_100g : Le sodium est important pour le bon fonctionnement du corps, mais une consommation excessive peut entraîner une rétention de liquides et une augmentation de la pression artérielle, ce qui peut augmenter le risque de maladies
+cardiaques et d'accidents vasculaires cérébraux. Il est donc important de faire attention à la quantité de sodium consommée au quotidien et de privilégier des aliments à faible teneur en sodium.
+Le sodium est aussi important pour la fonction musculaire.
+
+Alcohol_100g : % vol of alcohol : L'alcool peut avoir des effets négatifs sur la santé à des niveaux élevés, tels que les troubles du foie, les troubles du système nerveux central, et les problèmes de santé mentale.
+
+Vitamin-A_100g, Vitamin-D_100g, Vitamin-E_100g, Vitamin-K_100g, Vitamin-C_100g, Vitamin-B1_100g, Vitamin-B2_100g, Vitamin-PP_100g, Vitamin-B6_100g, Vitamin-B9_100g, Vitamin-B12_100g : Les vitamines sont des nutriments essentiels
+pour le maintien d'une bonne santé. Une carence en vitamines peut entraîner des problèmes de santé tels que la fatigue, les troubles de la peau, la perte de cheveux, et la faiblesse musculaire.
+
+Biotin_100g: also known as Vitamine B8, Pantothenic-acid_100g: also known as Vitamine B5 : Ces vitamines B sont nécessaires pour le métabolisme des graisses, des protéines, et des glucides, ainsi que pour la production d'énergie.
+
+Silica_100g, Bicarbonate_100g, Potassium_100g, Chloride_100g, Calcium_100g, Phosphorus_100g, Iron_100g, Magnesium_100g, Zinc_100g, Copper_100g, Manganese_100g, Fluoride_100g, Selenium_100g, Chromium_100g, Molybdenum_100g, Iodine_100g :
+Ces minéraux sont des éléments nutritifs importants pour le maintien de la santé osseuse, la régulation de la pression artérielle, la production d'énergie, et le bon fonctionnement des systèmes immunitaire et nerveux.
+
+Caffeine_100g, Taurine_100g : La caféine est un stimulant qui peut affecter le système nerveux central et cardiaque. La taurine est un acide aminé qui peut aider à réguler les niveaux d'énergie et la fonction cardiaque.
+
+Ph_100g : pH (no unit) : Le pH des aliments peut affecter l'environnement acide-base de l'intestin et peut influencer la digestion et l'absorption des nutriments.
+
+Carbon-footprint_100g : Cette variable mesure l'empreinte carbone d'un produit alimentaire, qui est un indicateur de l'impact environnemental de la production et de la distribution du produit.
+
+Nutrition-score-fr_100g et Nutrition-score-uk_100g : Ces deux variables évaluent le score nutritionnel d'un produit alimentaire selon les systèmes de notation français et britannique, respectivement. Les scores nutritionnels
+peuvent aider les consommateurs à choisir des produits alimentaires plus sains en fonction de leur teneur en nutriments et en ingrédients négatifs tels que les graisses saturées, le sucre et le sel."
+
+********************************************************************************
+
+Pour un consommateur de tabac :
+
+Les variables les plus importantes pour aider à maintenir un système immunitaire en bonne santé sont la vitamine C, la vitamine D, le zinc et le fer.
+
+La vitamine C est importante pour la croissance et la réparation des tissus, ainsi que pour la production de globules blancs qui combattent les infections. La vitamine D aide à maintenir un système immunitaire fort en régulant
+la production de globules blancs et en aidant à la production de protéines antimicrobiennes. Le zinc est important pour la production de globules blancs et la guérison des blessures, tandis que le fer aide à fournir l'oxygène
+aux cellules immunitaires pour les aider à fonctionner de manière optimale.
+
+En outre, il est important pour les fumeurs de consommer suffisamment de protéines pour aider à la reconstruction des tissus endommagés par le tabac, ainsi que de bonnes graisses insaturées pour aider à la régulation de l'inflammation
+dans le corps. Il est également important de maintenir un apport adéquat en antioxydants pour aider à prévenir les dommages causés par les radicaux libres produits par le tabac.
+
+********************************************************************************
+
+Santé sexuelle :
+
+Zinc : Le zinc est important pour la production de testostérone et pour la santé des spermatozoïdes. Les aliments riches en zinc comprennent les fruits de mer, les viandes, les noix, les graines et les légumineuses.
+
+Vitamine B : Les vitamines B peuvent aider à améliorer l'énergie et la circulation sanguine, ce qui peut être bénéfique pour la santé sexuelle. Les aliments riches en vitamines B comprennent les viandes, les produits céréaliers,
+les légumineuses, les fruits et les légumes.
+
+Acides gras oméga-3 : Les acides gras oméga-3 peuvent améliorer la santé cardiovasculaire et la circulation sanguine, ce qui peut être bénéfique pour la santé sexuelle. Les aliments riches en acides gras oméga-3 comprennent
+les poissons gras, les graines de lin et les noix.
+
+L-arginine : L'arginine est un acide aminé qui peut améliorer la circulation sanguine et la fonction érectile. Les aliments riches en L-arginine comprennent les viandes, les produits laitiers, les noix et les graines.
+
+Antioxydants : Les antioxydants peuvent aider à protéger les cellules contre les dommages oxydatifs et peuvent améliorer la santé générale, ce qui peut être bénéfique pour la santé sexuelle. Les aliments riches en antioxydants
+comprennent les fruits et les légumes de couleurs vives, les noix et les grains entiers.
+
+Il est important de noter que ces nutriments sont importants pour une bonne santé en général et peuvent être obtenus à travers une alimentation équilibrée et variée, plutôt que d'être consommés en excès sous forme de suppléments.
+Il est toujours recommandé de consulter un professionnel de la santé pour obtenir des conseils sur les besoins nutritionnels individuels.
+
+********************************************************************************
+
+Pollution :
+
+Il n'y a pas de variables dans les aliments qui peuvent protéger complètement le corps contre les effets néfastes de la pollution. Cependant, il y a certaines variables qui peuvent aider à renforcer le système immunitaire et
+ainsi améliorer la capacité du corps à lutter contre les effets négatifs de la pollution. 
+Ceux-ci comprennent :
+
+Vitamine C: Elle est importante pour le système immunitaire, car elle aide à lutter contre les effets des radicaux libres causés par la pollution.
+Antioxydants: Les antioxydants peuvent aider à neutraliser les radicaux libres causés par la pollution et ainsi prévenir les dommages cellulaires. Les sources alimentaires d'antioxydants comprennent les fruits et légumes, les grains entiers, les noix et les graines.
+Zinc: Cet oligo-élément est important pour le système immunitaire et peut aider à réguler les réactions du corps aux toxines. Les aliments riches en zinc comprennent les noix, les graines, les viandes et les produits laitiers.
+Vitamine D: Cette vitamine peut renforcer le système immunitaire et aider à prévenir les dommages causés par les radicaux libres. Les sources de vitamine D incluent la lumière du soleil, les poissons gras et les produits laitiers fortifiés.
+Il est important de noter que manger une alimentation équilibrée riche en fruits et légumes, en protéines maigres, en graisses saines et en grains entiers peut également aider à renforcer le système immunitaire et améliorer la capacité du corps à faire face à la pollution.
+
+********************************************************************************
+
+Classer cette montagne de variable :
+
+10 familles différentes comment les organierais tu?
+
+Il existe plusieurs façons d'organiser ces variables en familles différentes, mais voici une suggestion basée sur une approche fondée sur la science nutritionnelle :
+
+Énergie et macronutriments : comprenant l'énergie en kilocalories et en kilojoules, les protéines, les lipides, les glucides et les fibres alimentaires.
+
+Acides gras : comprenant les graisses saturées, les graisses insaturées, les oméga-3, les oméga-6 et les oméga-9.
+
+Vitamines : comprenant la vitamine A, la vitamine D, la vitamine E, la vitamine K, la vitamine C, les vitamines du complexe B, la biotine et l'acide pantothénique.
+
+Minéraux : comprenant le calcium, le phosphore, le fer, le magnésium, le zinc, le cuivre, le manganèse, le fluor, le sélénium, le chrome, le molybdène et l'iode.
+
+Autres micronutriments : comprenant la silice, le bicarbonate, le potassium, le chlorure, la caféine, la taurine et le pH.
+
+Alcool : comprenant la quantité d'alcool en % vol.
+
+Polluants : comprenant l'empreinte carbone et les scores de nutrition.
+
+Produits laitiers : comprenant le caséine, les protéines sériques et les nucléotides.
+
+Glucides simples et complexes : comprenant les sucres, le glucose, le fructose, le lactose, la maltose, les maltodextrines, l'amidon et les polyols.
+
+Acides gras saturés : comprenant le butyrique, le caproïque, le caprylique, le caprique, le laurique, le myristique, le palmitique, le stéarique, l'arachidique, le béhénique, le lignocérique, le cerotique, le montanique,
+le mélissique et la trans-graisse.
+
+Cette organisation est adaptable selon les besoins de chaque personne.
